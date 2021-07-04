@@ -1,0 +1,16 @@
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.Form1.resources
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.frmKarbar.resources
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.frmLogin.resources
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.Properties.Resources.resources
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.csproj.GenerateResource.cache
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.csproj.CoreCompileInputs.cache
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\bin\Debug\ReportingWithCsharp.exe
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\bin\Debug\ReportingWithCsharp.pdb
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\bin\Debug\DevComponents.DotNetBar2.dll
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\bin\Debug\DevComponents.DotNetBar2.xml
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.csproj.CopyComplete
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.exe
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.pdb
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.frmStu.resources
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.csprojAssemblyReference.cache
+D:\WorkingDir\ReporintgWithC#\ReportingWithCsharp\obj\Debug\ReportingWithCsharp.frmListStud.resources
