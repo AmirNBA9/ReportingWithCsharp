@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using CrystalDecisions.Windows.Forms;
 
 namespace ReportingWithCsharp
 {
@@ -110,6 +111,27 @@ namespace ReportingWithCsharp
         private void mskTarikh2_TextChanged(object sender, EventArgs e)
         {
             DisplayTarikh();
+        }
+
+        private void btnEdit_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                frmPrint frm = new frmPrint();
+                SqlDataAdapter da = new SqlDataAdapter("select * from Stud where id='" + Convert.ToInt32(dgvStud.SelectedCells[0].Value) + "'", con);
+                DataSet ds = new DataSet();
+                da.Fill(ds, "Stud");
+                dgvStud.DataSource = ds.Tables["Stud"].DefaultView;
+                rptStudCode rpt = new rptStudCode();
+                rpt.SetDataSource(ds);
+                frm.crystalReportViewer1.ReportSource = rpt;
+                frm.ShowDialog();
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("سطری انتخاب نشده است!");
+            }
         }
     }
 }
